@@ -5,7 +5,7 @@ pintas y hablar del mejor lenguaje del mundo: Javascript.
 
 ## Próximo Evento
 
-* [PintasJS](https://github.com/beerjs/pty/issues/1) #1
+* [PintasJS #1](https://github.com/beerjs/pty/issues/1)
 
 ## Ediciones Pasadas
 
