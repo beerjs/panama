@@ -1,15 +1,15 @@
 # BeerJS Panama City
 
-Pinta.js es un evento mensual gratuito donde desarrolladores se reunen a tomar
+Pintas.js es un evento mensual gratuito donde desarrolladores se reunen a tomar
 cerveza y hablar del mejor lenguaje del mundo: Javascript.
 
 ## Próximo Evento
 
-* [Pinta.js #1](https://github.com/beerjs/pty/issues/1)
+* [Pintas.js #2](https://github.com/beerjs/pty/issues/2)
 
 ## Ediciones Pasadas
 
-* No hay ediciones pasadas
+* [Pintas.js #1](https://github.com/beerjs/pty/issues/1)
 
 ## ¿Quieres unirte a la comunidad?
 
