@@ -5,11 +5,11 @@ cerveza y hablar del mejor lenguaje del mundo: Javascript.
 
 ## Próximo Evento
 
-* [Pintas.js #2](https://github.com/beerjs/pty/issues/2)
+* [Pintas.js #3](https://github.com/beerjs/pty/issues/3)
 
 ## Ediciones Pasadas
 
-* [Pintas.js #1](https://github.com/beerjs/pty/issues/1)
+* [Pintas.js #2](https://github.com/beerjs/pty/issues/2)
 
 ## ¿Quieres unirte a la comunidad?
 
@@ -26,11 +26,10 @@ Envia un Pull Request, Issue o edita el Wiki
 
 * Github es una red social natural para desarrolladores.
 * Menos spam
-* Github es gratis y [Meetup.com
-  no](http://www.meetup.com/help/Does-it-cost-money-to-start-a-Meetup-Group).
+* Búscanos en [Meetup.com
+  ](http://www.meetup.com/es/PanamaJS/).
 
 ## Organizadores
 
 * Ytzvan Mastino ([Github](https://github.com/ytzvan) /
   [Twitter](https://twitter.com/ytzvan))
-
